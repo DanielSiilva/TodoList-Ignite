@@ -7,7 +7,7 @@
 
 ## Link do projeto
 
-https://rich-slip.surge.sh/
+http://todo-list-ignite-bice.vercel.app/
 
 ## Referência
 
@@ -15,8 +15,12 @@ https://rich-slip.surge.sh/
 -   [Documentação React](https://pt-br.reactjs.org/)
 
 ## Funcionalidades
-O app faz o consumo de uma Api, que guarda dados de usuários fictícios  como: foto, idade e biografia.
-A proposta do App é simular as funcionalidades da rede social Tinder, que lista usuários em uma tela inicial onde é possível demostrar interatividade entre os usuários , ao curtir um perfil e assim iniciar   um "relacionamento". 
+
+- Adicionar uma nova tarefa 
+    - Verficação do input
+- Marcar uma tarefa como feita
+- Deletar a tarefa
+- Contador de tarefas feitas
 
 
 ## 🧠 Aprendizados
