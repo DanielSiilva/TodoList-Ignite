@@ -1,6 +1,6 @@
 # Todo List
 
-ToDo List (Copy).png
+image.png
 
 
 
@@ -10,7 +10,7 @@ https://rich-slip.surge.sh/
 
 ## Referência
 
--   [Notion do Projeto](https://labenu.notion.site/Projeto-de-Fixa-o-Astromatch-7bdfc822034c4e7db23cc35291d05b79)
+-   [Notion do Projeto](https://efficient-sloth-d85.notion.site/Desafio-01-Praticando-os-conceitos-do-ReactJS-91fd63dd1a5b4a2796152de293ec1074)
 -   [Documentação React](https://pt-br.reactjs.org/)
 
 ## Funcionalidades
@@ -44,7 +44,6 @@ A proposta do App é simular as funcionalidades da rede social Tinder, que lista
 
 ## Stacks utilizadas
 
-### Frontend
 
  <ul>
    <li>✅ Vite</li>
